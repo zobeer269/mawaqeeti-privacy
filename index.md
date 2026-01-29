@@ -75,12 +75,12 @@ These include: calculation method, madhab, Adhan sounds, notification preference
 ## أمان البيانات / Data Security
 
 - جميع البيانات تُخزن محلياً على جهازك
-- لا نرسل أي بيانات إلى خوادم خارجية,قد تجمع خدمات النظام أو Google بيانات تشخيصية عامة وفق إعدادات جهازك ووفق سياساتها.
+- لا نرسل أي بيانات إلى خوادم خارجية
 - لا نستخدم خدمات تحليلات تتبع المستخدمين
 - التطبيق يعمل بالكامل دون اتصال بالإنترنت (بعد التثبيت)
 
 - All data is stored locally on your device
-- We do not send any data to external servers. However, system services or Google may collect general diagnostic data depending on your device settings and their privacy policies.
+- We don't send any data to external servers
 - We don't use user tracking analytics
 - The app works completely offline (after installation)
 
@@ -116,8 +116,9 @@ You have the right to:
 
 ## الأطفال / Children
 
-التطبيق غير موجّه خصيصاً للأطفال. لا نجمع عن قصد أي معلومات شخصية من الأطفال.
-The app is not specifically directed at children. We do not knowingly collect any personal information from children.
+تطبيق مواقيتي مناسب لجميع الأعمار ولا يجمع أي بيانات شخصية من الأطفال.
+
+Mawaqeeti is suitable for all ages and does not collect any personal data from children.
 
 ---
 
@@ -135,7 +136,7 @@ We may update this privacy policy from time to time. Any changes will be posted 
 
 If you have questions about this privacy policy, please contact us:
 
-📧 **البريد الإلكتروني / Email:** [أضف بريدك الإلكتروني هنا]
+📧 **البريد الإلكتروني / Email:** mawaqeeti.prayer.app@gmail.com
 
 ---
 
